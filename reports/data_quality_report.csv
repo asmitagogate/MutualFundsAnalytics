@@ -9,3 +9,9 @@ file,rows,columns,missing_values,duplicates
 08_investor_transactions.csv,32778,13,0,0
 09_portfolio_holdings.csv,322,8,0,0
 10_benchmark_indices.csv,8050,3,0,0
+Axis_Bluechip.csv,3565,2,0,0
+HDFC_TOP100_LIVE.csv,3091,2,0,0
+ICICI_Bluechip.csv,3307,2,0,0
+Kotak_Bluechip.csv,3301,2,0,0
+Nippon_Large_Cap.csv,3298,2,0,0
+SBI_Bluechip.csv,3236,2,0,0
