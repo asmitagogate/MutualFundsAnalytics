@@ -1,3 +1,4 @@
+<pre>
 # 📊 Mutual Fund Analytics Platform
 
 An end-to-end Mutual Fund Analytics platform built using Python, SQLite, Jupyter Notebook and Power BI to analyze fund performance, investor behavior, portfolio risk, and industry trends.
@@ -45,7 +46,7 @@ Analytics & Risk Models
 ↓
 Power BI Dashboard
 ↓
-Business Insights & Reporting
+Business Insights & Reporting 
 
 ---
 
@@ -66,9 +67,9 @@ MutualFundsAnalytics/
 │ └── 05_advanced_analytics.ipynb
 │
 ├── scripts/
-│ ├── etl_pipeline.py
+│ ├── data_cleaning.py
 │ ├── live_nav_fetch.py
-│ ├── compute_metrics.py
+│ ├── data_ingestion.py
 │ ├── recommender.py
 │ └── run_pipeline.py
 │
@@ -77,11 +78,17 @@ MutualFundsAnalytics/
 │ └── queries.sql
 │
 ├── dashboard/
-│ └── bluestock_mf_dashboard.pbix
+│ └── MutualFundsAnalytics.pbix
+│ └── Dashboard.pdf
+│ └── Db Screenshots (.png)
 │
 ├── reports/
-│ ├── Final_Report.pdf
-│ └── Bluestock_MF_Presentation.pptx
+│ ├── Charts EDA (.png)
+│ └── Fund score card
+│ └── day1_summary.md
+│ └─ ─
+│
+├── venv/
 │
 └── README.md
 
@@ -328,9 +335,11 @@ Intern at Bluestock Fintech
 ✔ Risk Modelling & VaR Analysis
 
 ✔ Interactive Power BI Dashboard
-
+  
 ✔ SQL Database Design
 
 ✔ Business Intelligence Reporting
 
 ✔ Investment Recommendation System
+
+</pre>
